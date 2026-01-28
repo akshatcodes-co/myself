@@ -1,6 +1,6 @@
 const products = [
-    { id: 1, name: "Premium Headphones", price: "₹2,999", img: "https://via.placeholder.com/200" },
-    { id: 2, name: "Smart Watch v2", price: "₹4,499", img: "https://via.placeholder.com/200" },
+    { id: 1, name: "Premium Headphones", price: "₹1,999", img: "https://via.placeholder.com/200" },
+    { id: 2, name: "Smart Watch v2", price: "₹9,499", img: "https://via.placeholder.com/200" },
     { id: 3, name: "Mechanical Keyboard", price: "₹1,299", img: "https://via.placeholder.com/200" },
     { id: 4, name: "Wireless Mouse", price: "₹799", img: "https://via.placeholder.com/200" },
     { id: 5, name: "DSLR Camera", price: "₹45,999", img: "https://via.placeholder.com/200" },
